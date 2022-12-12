@@ -1,0 +1,11 @@
+C:\Users\ecemb\Desktop\5aralıkakşam\senaryofabrikayoutube1\senaryofabrikayoutube1\bin\Debug\senaryofabrikayoutube1.exe.config
+C:\Users\ecemb\Desktop\5aralıkakşam\senaryofabrikayoutube1\senaryofabrikayoutube1\bin\Debug\senaryofabrikayoutube1.exe
+C:\Users\ecemb\Desktop\5aralıkakşam\senaryofabrikayoutube1\senaryofabrikayoutube1\bin\Debug\senaryofabrikayoutube1.pdb
+C:\Users\ecemb\Desktop\5aralıkakşam\senaryofabrikayoutube1\senaryofabrikayoutube1\obj\Debug\senaryofabrikayoutube1.csproj.AssemblyReference.cache
+C:\Users\ecemb\Desktop\5aralıkakşam\senaryofabrikayoutube1\senaryofabrikayoutube1\obj\Debug\senaryofabrikayoutube1.csproj.SuggestedBindingRedirects.cache
+C:\Users\ecemb\Desktop\5aralıkakşam\senaryofabrikayoutube1\senaryofabrikayoutube1\obj\Debug\senaryofabrikayoutube1.Form1.resources
+C:\Users\ecemb\Desktop\5aralıkakşam\senaryofabrikayoutube1\senaryofabrikayoutube1\obj\Debug\senaryofabrikayoutube1.Properties.Resources.resources
+C:\Users\ecemb\Desktop\5aralıkakşam\senaryofabrikayoutube1\senaryofabrikayoutube1\obj\Debug\senaryofabrikayoutube1.csproj.GenerateResource.cache
+C:\Users\ecemb\Desktop\5aralıkakşam\senaryofabrikayoutube1\senaryofabrikayoutube1\obj\Debug\senaryofabrikayoutube1.csproj.CoreCompileInputs.cache
+C:\Users\ecemb\Desktop\5aralıkakşam\senaryofabrikayoutube1\senaryofabrikayoutube1\obj\Debug\senaryofabrikayoutube1.exe
+C:\Users\ecemb\Desktop\5aralıkakşam\senaryofabrikayoutube1\senaryofabrikayoutube1\obj\Debug\senaryofabrikayoutube1.pdb
